@@ -10,9 +10,9 @@ This Note-taker application was created utilizing Node.js and Express.js and all
 
 ![localhost_3001_notes](https://github.com/frostyfaust/Note-taker/assets/55112932/62e4abc5-5b0c-4a78-9f67-b3a734ff902b)
 
+## Live link
 
-
-[Note-Taker Live Link](https://jlf-note-taker.herokuapp.com/notes)
+[Note-Taker](https://jlf-note-taker.herokuapp.com/notes)
 
 ## Technologies Used
 
