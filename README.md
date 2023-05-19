@@ -6,7 +6,9 @@ This Note-taker application was created utilizing Node.js and Express.js and all
 
 ## Snap Shot of Site
 
+![localhost_3001_](https://github.com/frostyfaust/Note-taker/assets/55112932/168a43ca-984a-4d62-b47a-1fc69416d3d4)
 
+![localhost_3001_notes](https://github.com/frostyfaust/Note-taker/assets/55112932/62e4abc5-5b0c-4a78-9f67-b3a734ff902b)
 
 
 ## Technologies Used
