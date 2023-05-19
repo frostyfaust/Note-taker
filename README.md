@@ -2,9 +2,9 @@
 
 ## Description
 
+This Note-taker application was created utilizing Node.js and Express.js and allows for users to create their own notes and save them for future use. Using express.js, routes were created to either get exisiting note, create new notes, and delete notes at request.
 
-
-## Mock Video
+## Snap Shot of Site
 
 
 
@@ -31,7 +31,6 @@
 
 other required installation:
 - Node.js
-- Express.js
 
     
 ## Usage
