@@ -1,1 +1,17 @@
-[{"title":"justen ","text":"is my name\n","id":"1f21c43f-0fd2-4ecb-b69f-c23edc91a577"}]
+[
+  {
+    "title": "First Note",
+    "text": "This note is the worst.",
+    "id": "19c4e0a4-7f72-41da-980b-b759ffad2344"
+  },
+  {
+    "title": "Second Note",
+    "text": "This note is the best!",
+    "id": "7c410f06-20fb-4e67-a33d-faff940b9824"
+  },
+  {
+    "title": "Third Note",
+    "text": "This note is the one with the longer text.",
+    "id": "be242252-5f6a-42bc-a1fa-d5586fe1f066"
+  }
+]
